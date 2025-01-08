@@ -9,7 +9,7 @@ Usaremos o site do ``` Facebook ``` como exemplo.
 ### Pontos Importantes:
  - Caso esteja usando uma VM, certifique-se que a configuração da rede esteja no modo: Bridged Adapter(Inglês) ou Placa de modo Bridge(Português).
  - Funcionará para os dispositivos na mesma rede.
- - Ao clonar a pagina deve ser clonado a pagina onde se digita a login e senha.
+ - Ao clonar a pagina deve ser clonado a pagina onde digita o login e senha.
 
 ### Resumo (Passo-a-passo): Configuração da ferramenta setoolkit para construção do Phishing no Kali Linux
 
