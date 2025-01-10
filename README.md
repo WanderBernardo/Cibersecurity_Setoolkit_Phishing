@@ -23,7 +23,7 @@ Usaremos o site do ``` Facebook ``` como exemplo.
  - URL para clone: http://www.facebook.com
  - Enviar o IP da maquina para alguém
 
-### Resumo (Passo-a-passo): Configuração da ferramenta setoolkit para construção do Phishing no Kali Linux:
+### Detalhamento (Passo-a-passo): Configuração da ferramenta setoolkit para construção do Phishing no Kali Linux:
 
 01 - Acesso root no modo administrador: aplicar o comando ``` sudo su ```, em seguida vai pedir para digitar a senha do administrador.
 
