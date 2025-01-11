@@ -63,7 +63,7 @@ Usaremos o site do ``` Facebook ``` como exemplo.
 
 10 - Enviar para alguém o IP que aparece no setimo passo, que é o IP da maquina.
 
-### Resutados
+### Resultados
 Após alguém realizar o login e senha, a tela de comando apresentará alguns textos. Mas em alguma linha dessas vai mostrar conforme a imagem abaixo, com a captura.
 
 ![image](https://github.com/user-attachments/assets/eb9ea83b-5a06-4103-8ddc-50138b0e6978)
