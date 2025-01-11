@@ -66,4 +66,5 @@ Usaremos o site do ``` Facebook ``` como exemplo.
 ### Resutados
 Após alguém realizar o login e senha, a tela de comando apresentará alguns textos. Mas em alguma linha dessas vai mostrar conforme a imagem abaixo, com a captura.
 
-![Alt text](./passwd.png "Optional title")
+![image](https://github.com/user-attachments/assets/eb9ea83b-5a06-4103-8ddc-50138b0e6978)
+
